@@ -1,0 +1,24 @@
+.press-start-2p-regular {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
+*
+{
+    background-color: #d77bba;
+}
+
+h1
+{
+    font-family: "Press Start 2P";
+    color: white;
+    text-align: center;
+}
+
+.glueImg
+{
+    display: block;
+    margin: auto;
+    margin-top: 250px;
+}

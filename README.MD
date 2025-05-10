@@ -1,3 +1,3 @@
-Glue-site
+# glue-site
 
 the site for all your gluewagon-based needs
